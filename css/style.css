@@ -1,3 +1,7 @@
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
+
 /* Global */
 @import "./global/global.css";
 @import "./global/header.css";
@@ -20,5 +24,4 @@
 /* Termos */
 @import "/css/termos/termos.css";
 
-/* Bicicletas */
-@import "./bicicletas/bicicletas-lista.css"
+
