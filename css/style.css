@@ -27,6 +27,9 @@
 @import "./home/parceiros.css";
 @import "./home/tecnologia.css";
 
+/* Orcamentos */
+@import "./orcamento.css/orcamentos.css";
+
 /* Seguros */
 @import "/css/seguros/seguros.css";
 @import "/css/seguros/vantagens.css";
