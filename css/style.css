@@ -20,6 +20,7 @@
 @import "./utilidades/cores.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 
 /* Home */
 @import "./home/depoimentos.css";
